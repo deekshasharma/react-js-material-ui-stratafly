@@ -6,7 +6,7 @@ Before running the project, please make sure you have the following:
 - Node.js LTS version which can be found [here](https://nodejs.org/en/download/). The course is upto date using this version at all times.
 - Please refer to the help section below to resolve most common questions.
 
-# Help
+# FAQ
 
 ### - Can I use my own IDE to develop the project during the course ?
 Yes, feel free to use your own IDE for the course.
